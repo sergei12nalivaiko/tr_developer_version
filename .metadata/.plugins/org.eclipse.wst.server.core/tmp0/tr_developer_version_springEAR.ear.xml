@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <archive targetInArchive="/tr_developer_version_spring.war">
+        <dir sourceOnDisk="D:\nalivaiko\job\projects\eclipse_spring\tr_developer_version_spring\src\main\webapp" targetInArchive="/"/>
+        <dir sourceOnDisk="D:\nalivaiko\job\projects\eclipse_spring\tr_developer_version_spring\build\classes" targetInArchive="/WEB-INF/classes"/>
+    </archive>
+    <dir sourceOnDisk="D:\nalivaiko\job\projects\eclipse_spring\tr_developer_version_springEAR\EarContent" targetInArchive="/"/>
+</archive>

@@ -1,0 +1,5 @@
+package by.rw.tr.config;
+
+public class WebConfig {
+
+}
